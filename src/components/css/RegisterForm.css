@@ -37,6 +37,7 @@ input {
   outline: none;
   transition: border-color 0.3s;
   border: 1px solid #181c14;
+  margin-bottom: 15px;
 }
 
 button {
